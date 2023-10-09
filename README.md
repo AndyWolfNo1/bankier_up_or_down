@@ -1,1 +1,1 @@
-" program do lajkowania pedalskiego forum" 
+" program do lajkowania forum" 
